@@ -1,0 +1,15 @@
+<html>
+	<tile>
+		IWPAIB!
+    <head>
+    </head>
+    <body>
+		<p> 
+			Here's the cheapest pizza we found in your area!
+		</p> 
+            <button onclick="window.location.href='p2.html'">Look Again?</button>
+        <p>
+            Thanks for visiting!
+        </p>
+    </body>
+</html>
