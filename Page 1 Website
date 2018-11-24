@@ -1,0 +1,15 @@
+<html>
+	<tile>
+		IWPAIB!
+    <head>
+    </head>
+    <body>
+		<p> 
+			Welcome to I Want Pizza and I'm Broke for the best deals in pizza. 
+		</p> 
+            <button onclick="window.location.href='p2.html'">Want Cheap Pizza?</button>
+        <p>
+            This message was brought to you by the mech eng gang
+        </p>
+    </body>
+</html>
