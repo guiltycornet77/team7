@@ -1,0 +1,24 @@
+<html>
+<title>
+			IWPAIB!
+</title>
+<head>
+</head>
+<body>
+<form>
+		How many pizza's do you want?
+		<input type = "number" min="0" step="1"/>
+		 How many toppings do you want? 
+	    <input type = "number" min="0" step="1"/>
+		<p>
+		'za size
+	</p>
+		<var>Pisize</var>
+  		<button onclick="Pisize='small'">(Small)</button>
+    	<button onclick="Pisize ='medium'">(Medium)</button>
+    	<button onclick="Pisize='large'">(Large)</button>
+    	<button onclick="Pisize='xlarge'">(Extra Large)</button>
+</form>
+<button onclick="window.location.href='p4.html'">Wheres this cheap pizza?</button>
+</body>
+</html>
