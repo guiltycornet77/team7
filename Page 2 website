@@ -1,0 +1,41 @@
+<html> 
+<title>
+        IWPAIB!
+</title>
+<head>
+</head>
+<body>
+<form> 
+		What is your street address?
+		<input type = “text” name= ""><br>
+		What is your postal code?
+		<input type = "text" name= ""><br>
+		What city do you live in?
+		<input type = "text" name= ""><br>
+    </form>
+    <p>
+    What Province
+    </p>
+    <var> Province <var>
+    </button>
+  		<div id="myDropdown" class="dropdown-content">
+    	<button onclick=" Province = 'ON'">ON</button/a>
+    	<button onclick=" Province ='MB'">MB</button/a>
+    	<button onclick=" Province ='NL'">NL</button/a>
+    	<button onclick=" Province ='NS'">NS</button/a>
+    	<button onclick=" Province ='BC'">BC</button/a>
+    	<button onclick=" Province ='AB'">AB</button>
+    	<button onclick=" Province ='NT'">NT</button>
+    	<button onclick=" Province ='NU'">NU</button>
+    	<button onclick=" Province ='PE'">PE</button>
+    	<button onclick=" Province ='QC'">QC</button>
+    	<button onclick=" Province ='SK'">SK</button>
+    	<button onclick=" Province ='YT'">YT</button>
+	</div>
+     <p>
+        How far do you want to search? (KM)
+    </p>
+        <input type = "number" min="0" step="1"/>
+        <button onclick="window.location.href='p3.html'">Submit</button>
+</body>
+</html>
